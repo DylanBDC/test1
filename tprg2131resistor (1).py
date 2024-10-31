@@ -1,3 +1,12 @@
+# Dylan Brett (100933134)
+# TPRG-2131-02
+# Oct 31, 2024
+# This program is strictly my own work. Any material
+# beyond course learning materials that is taken from
+# the Web or other sources is properly cited, giving
+# credit to the original author(s). I havent used any
+# code from other sources other than referncing the course material
+
 # Resistor class models a resistor that behaves according to Ohm's law.
 
 # MODIFIED TUE FEB 6: fix the PyLint warnings in the unit test code.
